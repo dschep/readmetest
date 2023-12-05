@@ -1,1 +1,3 @@
-= ALt header!
+= readmetest
+
+Neat. AsciiDoc takes priority.
