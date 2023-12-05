@@ -1,3 +1,0 @@
-= readmetest
-
-Neat. AsciiDoc takes priority.
